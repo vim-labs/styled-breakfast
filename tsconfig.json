@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "sourceMap": true,
+    "isolatedModules": true,
+    "outDir": "./dist"
+  },
+  "include": ["./*.ts"],
+  "exclude": ["node_modules"]
+}
