@@ -1,7 +1,7 @@
 {
   "name": "styled-breakfast",
-  "description": "Adds bracketed breakpoints to styled-components.",
-  "version": "1.0.6",
+  "description": "Fast, easy to undestand breakpoints for styled-components.",
+  "version": "1.0.7",
   "author": "Ryan Bell <ryan@vimlabs.com>",
   "scripts": {
     "build": "tsc",

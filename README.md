@@ -1,6 +1,6 @@
 # styled-breakfast
 
-Adds bracketed breakpoints to styled-components.
+Fast, easy to undestand breakpoints for styled-components.
 
 ## Install
 
