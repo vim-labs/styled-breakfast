@@ -5,7 +5,7 @@ Adds bracketed breakpoints to styled-components.
 ## Install
 
 ```bash
-yarn add styled-breakfast // Or, npm i styled-breakfast
+yarn add styled-breakfast # Or, npm i styled-breakfast
 ```
 
 ## Usage
