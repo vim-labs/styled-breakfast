@@ -85,5 +85,5 @@ breakpoints: {
 **breakpoint("> 100")**
 `@media (min-width: 100.02px)`
 
-**breakpoint(">= sm");**
+**breakpoint(">= sm")**
 `@media (min-width: 600px)`
