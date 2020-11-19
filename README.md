@@ -5,27 +5,16 @@ Adds bracketed breakpoints to styled-components.
 ```
 import breakpoint from 'styled-breakfast'
 
-const breakpoints = {
+// Theme:
+...
+breakpoints: {
   xs: 576,
   sm: 768,
   md: 992,
   lg: 1200,
   xl: 1600,
-};
-
-import breakpoint, { getBreaks } from "./styled-breakfast";
-
-const props = {
-  theme: {
-    breakpoints: {
-      xs: 500,
-      sm: 600,
-      md: 700,
-      lg: 800,
-      xl: 900,
-    },
-  },
-};
+}
+...
 ```
 
 ## Examples
