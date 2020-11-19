@@ -12,6 +12,7 @@ yarn add styled-breakfast # Or, npm i styled-breakfast
 
 ```javascript
 import styled from "styled-components";
+import breakpoint from "styled-breakfast";
 
 const Expample = styled.div`
   width: 200px;
